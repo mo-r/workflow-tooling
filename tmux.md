@@ -7,16 +7,16 @@ Cheatsheet
 ==========
 
 * kill a window 
-'''
+```
 kill-window -t [WINDOW_NUMBER]
-'''
+```
 
 Resources
 =========
 
 Tmux
 * http://tmux.sourceforge.net/
-** tmux 1.9 package: http://ftp.debian.org/debian/pool/main/t/tmux/
+  * tmux 1.9 package: http://ftp.debian.org/debian/pool/main/t/tmux/
 Tmux Plugin Manager
 * https://github.com/tmux-plugins/tpm
 Tmux Resurrect
