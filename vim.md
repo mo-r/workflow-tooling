@@ -11,3 +11,8 @@ sudo apt-get install vim vim-common vim-gnome vim-gui-common vim-runtime
 ======================
 
 * https://github.com/tpope/vim-pathogen
+
+* Additiions for Dev
+** https://github.com/scrooloose/nerdtree
+** https://github.com/Townk/vim-autoclose.git
+** https://github.com/tpope/vim-surround.git

@@ -3,6 +3,14 @@ Info
 
 * the setup works fine under Ubuntu 14.04 WITH the zsh (+prezto)
 
+Cheatsheet
+==========
+
+* kill a window 
+'''
+kill-window -t [WINDOW_NUMBER]
+'''
+
 Resources
 =========
 
